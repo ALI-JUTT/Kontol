@@ -1,2 +1,2 @@
-from Asad import asad
+from Team import asad
 asad()
